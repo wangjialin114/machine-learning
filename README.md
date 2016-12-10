@@ -5,7 +5,9 @@
 - SVM 
 - XGBoost
 大家在阅读代码之前请一定要看看文件夹下相应的pdf说明文档。
+
 ## Talk is cheap, Show me the code.
+
 # svm
 
 - SVM SMO算法java实现
@@ -17,4 +19,5 @@
 #xgboost
 
 - xgboost二分类算法java实现
+
 请先阅读[说明](https://github.com/wangjialin114/machine-learning/blob/master/xgboost/XGBoost.pdf)了解细节。
