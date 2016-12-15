@@ -2,12 +2,21 @@
 # machine-learning
 
 最近打算用Java实现一些经典的算法以加深自己对这些算法的理解，例如svm,xgboost,logistic regression等。当然写的代码类似于DEMO的性质，可能考虑的不是很全面，以学习为主。
+- KNN
 - SVM 
 - XGBoost
 
 大家在阅读代码之前请一定要看看文件夹下相应的pdf说明文档。
 
 ## Talk is cheap, Show me the code.
+
+# KNN
+
+- KNN原始算法java实现
+- 基于K-D tree的KNN算法java实现
+- Locality Sensitive Hashing算法java实现
+
+请先阅读[说明](https://github.com/wangjialin114/machine-learning/blob/master/knn/knn.pdf)了解细节。
 
 # svm
 
