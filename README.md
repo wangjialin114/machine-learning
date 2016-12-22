@@ -2,18 +2,30 @@
 # machine-learning
 
 最近打算实现一些经典的算法以加深自己对这些算法的理解，例如svm,xgboost,logistic regression等。当然写的代码类似于DEMO的性质，可能考虑的不是很全面，以学习为主。
+- Regression
+- Logistic Regression
 - KNN
 - SVM 
 - XGBoost
 
 大家在阅读代码之前请一定要看看文件夹下相应的pdf说明文档。
 
-其中，KNN,SVM,XGBoost的DEMO是用java实现的。
+其中，KNN,SVM,XGBoost的DEMO是用java实现的,剩下的都是用java实现的。
 
-考虑到在实现这几个算法过程中，还未涉及到矩阵求逆等复杂的矩阵运算，因此最终都是用数组元素运算去完成一些线性代数的功能。习惯了使用python和matlab中的矩阵运算，考虑到学习成本和时间问题。后面其他的算法都将使用python实现。
+考虑到在实现KNN,SVM,XGBoost这几个算法过程中，还未涉及到矩阵求逆等复杂的矩阵运算，因此最终都是用数组元素运算去完成一些线性代数的功能。习惯了使用python和matlab中的矩阵运算，考虑到学习成本和时间问题。后面其他的算法都将使用python实现。
 
 
 ## Talk is cheap, Show me the code.
+
+# Logistic Regression(Python)
+
+- L1正则项的二分类Logistic Regression、基于坐标下降法的实现
+
+- L2正则项的二分类Logistic Regression、基于梯度下降法的实现
+
+- L2正则项的二分类Logistic Regression、基于牛顿法BFGS的实现
+
+  请先阅读[说明](https://github.com/wangjialin114/machine-learning/blob/master/logit_regression/logitRegression.pdf)了解细节
 
 # KNN(java)
 
