@@ -5,12 +5,13 @@
 - Regression
 - Logistic Regression
 - KNN
+- Naive Bayes
 - SVM 
 - XGBoost
 
 大家在阅读代码之前请一定要看看文件夹下相应的pdf说明文档。
 
-其中，KNN,SVM,XGBoost的DEMO是用java实现的,剩下的都是用java实现的。
+其中，KNN,SVM,XGBoost的DEMO是用java实现的,剩下的都是用Python实现的。
 
 考虑到在实现KNN,SVM,XGBoost这几个算法过程中，还未涉及到矩阵求逆等复杂的矩阵运算，因此最终都是用数组元素运算去完成一些线性代数的功能。习惯了使用python和matlab中的矩阵运算，考虑到学习成本和时间问题。后面其他的算法都将使用python实现。
 
@@ -34,6 +35,14 @@
 - Locality Sensitive Hashing算法java实现
 
 请先阅读[说明](https://github.com/wangjialin114/machine-learning/blob/master/knn/knn.pdf)了解细节。
+
+# Naive Bayes(Python)
+
+- 基于naive bayes的文本分类实现
+
+
+请先阅读[说明](https://github.com/wangjialin114/machine-learning/blob/master/naive_bayes/naive_bayes.pdf)了解细节。
+
 
 # svm(java)
 
